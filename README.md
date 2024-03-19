@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there
+
+Motivated and resourceful electrical and computer engineer, passionate musician and tech enthusiast. Self-taught programmer interested in electronics, open source software and open hardware. Right-to-repair advocate and environmentalist.
 
 <!--
 **jorge-pais/jorge-pais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
